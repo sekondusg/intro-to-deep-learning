@@ -1,0 +1,25 @@
+{
+    "root": "/home/dennis/workspace/intro-to-deep-learning",
+    "program": "<python with no main file>",
+    "git": {
+        "remote": "https://github.com/sekondusg/intro-to-deep-learning.git",
+        "commit": "6a91b814188c7bc46afe4c92bd8e739a49d365c6"
+    },
+    "email": "dennis@pdx.edu",
+    "startedAt": "2019-10-23T01:26:05.127332",
+    "host": "zyxx",
+    "username": "dennis",
+    "executable": "/home/dennis/anaconda3/bin/python",
+    "os": "Linux-5.0.0-31-generic-x86_64-with-debian-buster-sid",
+    "python": "3.7.4",
+    "cpu_count": 4,
+    "args": [
+        "-f",
+        "/home/dennis/.local/share/jupyter/runtime/kernel-4642b349-4e04-4e5c-aeb9-2aa9eee64f96.json"
+    ],
+    "state": "running",
+    "jobType": "training",
+    "mode": "run",
+    "project": "SelectiveOptWandB",
+    "heartbeatAt": "2019-10-23T01:43:33.366722"
+}
