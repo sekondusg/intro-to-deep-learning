@@ -1,0 +1,23 @@
+{
+    "root": "/home/dennis/workspace/intro-to-deep-learning",
+    "program": "test_wandb.py",
+    "git": {
+        "remote": "https://github.com/sekondusg/intro-to-deep-learning.git",
+        "commit": "d2fd770aefa2652a90d4200e70e69edf6b03168f"
+    },
+    "email": "dennis@pdx.edu",
+    "startedAt": "2019-10-23T18:35:55.483969",
+    "host": "zyxx",
+    "username": "dennis",
+    "executable": "/home/dennis/anaconda3/bin/python",
+    "os": "Linux-5.0.0-31-generic-x86_64-with-debian-buster-sid",
+    "python": "3.7.4",
+    "cpu_count": 4,
+    "args": [],
+    "state": "finished",
+    "jobType": null,
+    "mode": "run",
+    "project": "my-project",
+    "heartbeatAt": "2019-10-23T18:35:57.107068",
+    "exitcode": 0
+}

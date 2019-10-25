@@ -1,0 +1,14 @@
+wandb_version: 1
+
+_wandb:
+  desc: null
+  value:
+    cli_version: 0.8.13
+    is_jupyter_run: false
+    python_version: 3.7.4
+dropout:
+  desc: null
+  value: 0.2
+hidden_layer_size:
+  desc: null
+  value: 128
